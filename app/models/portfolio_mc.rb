@@ -1,0 +1,2 @@
+class PortfolioMc < ApplicationRecord
+end
